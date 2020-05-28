@@ -1,0 +1,10 @@
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\Loss.DAL.dll.config
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\Loss.DAL.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\Loss.DAL.pdb
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\obj\Debug\Loss.DAL.csproj.CopyComplete
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\obj\Debug\Loss.DAL.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.DAL\obj\Debug\Loss.DAL.pdb

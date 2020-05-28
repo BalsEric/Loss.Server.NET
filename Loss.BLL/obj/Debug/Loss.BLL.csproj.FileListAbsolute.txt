@@ -1,0 +1,14 @@
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.BLL.dll.config
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.BLL.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.BLL.pdb
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\EntityFramework.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.DAL.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.DAL.pdb
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\Loss.DAL.dll.config
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\EntityFramework.xml
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\obj\Debug\Loss.BLL.csprojAssemblyReference.cache
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\obj\Debug\Loss.BLL.csproj.CopyComplete
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\obj\Debug\Loss.BLL.dll
+D:\Projects\Sites\LossSite\Back\Loss\Loss.BLL\obj\Debug\Loss.BLL.pdb
